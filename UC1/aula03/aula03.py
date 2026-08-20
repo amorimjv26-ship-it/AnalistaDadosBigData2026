@@ -52,6 +52,7 @@ choveu = True
 
 if choveu and locomocao=='moto':
     resultado = "Tô todo molhado :("
-elif not choveu  and locomocao=='moto':
 
+elif not choveu and locomocao=='moto':
+    resultado = "Tô seco"
     
